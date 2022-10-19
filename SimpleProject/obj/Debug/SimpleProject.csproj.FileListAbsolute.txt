@@ -1,0 +1,11 @@
+C:\Users\nagalakshmi.edhunury\source\repos\SimpleProject\SimpleProject\bin\Debug\SimpleProject.exe.config
+C:\Users\nagalakshmi.edhunury\source\repos\SimpleProject\SimpleProject\bin\Debug\SimpleProject.exe
+C:\Users\nagalakshmi.edhunury\source\repos\SimpleProject\SimpleProject\bin\Debug\SimpleProject.pdb
+C:\Users\nagalakshmi.edhunury\source\repos\SimpleProject\SimpleProject\obj\Debug\SimpleProject.csproj.AssemblyReference.cache
+C:\Users\nagalakshmi.edhunury\source\repos\SimpleProject\SimpleProject\obj\Debug\SimpleProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\nagalakshmi.edhunury\source\repos\SimpleProject\SimpleProject\obj\Debug\SimpleProject.Form1.resources
+C:\Users\nagalakshmi.edhunury\source\repos\SimpleProject\SimpleProject\obj\Debug\SimpleProject.Properties.Resources.resources
+C:\Users\nagalakshmi.edhunury\source\repos\SimpleProject\SimpleProject\obj\Debug\SimpleProject.csproj.GenerateResource.cache
+C:\Users\nagalakshmi.edhunury\source\repos\SimpleProject\SimpleProject\obj\Debug\SimpleProject.csproj.CoreCompileInputs.cache
+C:\Users\nagalakshmi.edhunury\source\repos\SimpleProject\SimpleProject\obj\Debug\SimpleProject.exe
+C:\Users\nagalakshmi.edhunury\source\repos\SimpleProject\SimpleProject\obj\Debug\SimpleProject.pdb
